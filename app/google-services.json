@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860220310623",
+    "firebase_url": "https://gotplay-737b5.firebaseio.com",
+    "project_id": "gotplay-737b5",
+    "storage_bucket": "gotplay-737b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860220310623:android:2b290a7773f8b9f6",
+        "android_client_info": {
+          "package_name": "com.adoranwodo.play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860220310623-6pja2mastq5q5q8fkssfgke7o5crjmt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adoranwodo.play",
+            "certificate_hash": "72486e75b9af1957f13986d258fd571a0a3d7d4a"
+          }
+        },
+        {
+          "client_id": "860220310623-8cpsccsfb39768qvudkqr7tn8jvik8of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtaoOwH3hmACmhukWnMe-tlzxFPkpdEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860220310623-8cpsccsfb39768qvudkqr7tn8jvik8of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

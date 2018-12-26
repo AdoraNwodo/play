@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+    <!-- Background Colors -->
+    <color name="bgArryn">#ddd7bf</color>
+    <color name="bgBolton">#be1f27</color>
+    <color name="bgGreyjoy">#000000</color>
+    <color name="bgBaratheon">#434343</color>
+    <color name="bgLannister">#675b45</color>
+    <color name="bgMartell">#80242a</color>
+    <color name="bgStark">#7e7e7e</color>
+    <color name="bgTargaryen">#d3d3d3</color>
+    <color name="bgTarly">#e14132</color>
+    <color name="bgTully">#ece8cb</color>
+
+    <!-- Text Colors -->
+    <color name="txtArryn">#0f1928</color>
+    <color name="txtBolton">#fef6d6 </color>
+    <color name="txtGreyjoy">#e1a408</color>
+    <color name="txtBaratheon">#8a7601</color>
+    <color name="txtLannister">#6b0103</color>
+    <color name="txtMartell">#f0d052</color>
+    <color name="txtStark">#bbb49d</color>
+    <color name="txtTargaryen">#c00707</color>
+    <color name="txtTarly">#000000</color>
+    <color name="txtTully">#ad422e</color>
+</resources>

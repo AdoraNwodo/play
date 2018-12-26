@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.adoranwodo.play.MainActivity"
+    tools:showIn="@layout/activity_main"
+    >
+
+    <ImageView
+        android:id="@+id/imgPlaylistItemBg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:maxHeight="0dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/got_bg2" />
+
+    <Button
+        android:id="@+id/start_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button_background"
+        android:text="@string/start_game"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal|bottom"
+        android:paddingEnd="35dp"
+        android:paddingStart="35dp"
+        android:layout_marginBottom="30dp"
+        />
+
+
+
+</FrameLayout>

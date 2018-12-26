@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "House Targaryen",
+    "image": "targaryen.png"
+  },
+  {
+    "id": 2,
+    "name": "House Stark",
+    "image": "stark.png"
+  },
+  {
+    "id": 3,
+    "name": "House Lannister",
+    "image": "lannister.png"
+  },
+  {
+    "id": 4,
+    "name": "House Martell",
+    "image": "martell.png"
+  },
+  {
+    "id": 5,
+    "name": "House Baratheon",
+    "image": "baratheon.png"
+  },
+  {
+    "id": 6,
+    "name": "House Arryn",
+    "image": "arryn.png"
+  },
+  {
+    "id": 7,
+    "name": "House Tully",
+    "image": "tully.png"
+  },
+  {
+    "id": 8,
+    "name": "House Tarly",
+    "image": "tarly.png"
+  },
+  {
+    "id": 9,
+    "name": "House Bolton",
+    "image": "bolton.png"
+  },
+  {
+    "id": 10,
+    "name": "House Greyjoy",
+    "image": "greyjoy.png"
+  }
+
+]
+
