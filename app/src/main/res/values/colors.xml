@@ -20,10 +20,10 @@
     <color name="txtArryn">#0f1928</color>
     <color name="txtBolton">#fef6d6 </color>
     <color name="txtGreyjoy">#e1a408</color>
-    <color name="txtBaratheon">#8a7601</color>
+    <color name="txtBaratheon">#e1a408</color><!--8a7601-->
     <color name="txtLannister">#6b0103</color>
     <color name="txtMartell">#f0d052</color>
-    <color name="txtStark">#bbb49d</color>
+    <color name="txtStark">#000000</color><!--bbb49d-->
     <color name="txtTargaryen">#c00707</color>
     <color name="txtTarly">#000000</color>
     <color name="txtTully">#ad422e</color>

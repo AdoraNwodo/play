@@ -12,21 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         style="@android:style/Widget.DeviceDefault.ProgressBar.Horizontal"
-        android:layout_marginRight="5dp" />
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"/>
 
-    <!--
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:textSize="@dimen/splash_text"
-        android:keepScreenOn="true"
-        android:textColor="@color/colorPrimary"
-        android:textStyle="bold"
-        android:text="@string/play"
-        android:fontFamily="@font/quicksand_bold"
-        />
-    -->
 </RelativeLayout>
